@@ -408,6 +408,22 @@ nav .navlinks li a{
         display: contents;
     }
 
+    .btn-group{
+    margin:45px 0;
+}
+
+.btn-group .btn{
+    border-color: #d5d5d5;
+    color: #fff;
+    display:inline;
+    background-color: #252425;
+    padding: 12px 25px;
+    margin: 5px 0;
+    border-radius: 30px;
+    border: 2px solid #e5e5e5;
+    margin-right: 7px;
+    box-shadow: 0 10px 10px -8pz rgb(27, 28, 27);
+}
 
     
 }
